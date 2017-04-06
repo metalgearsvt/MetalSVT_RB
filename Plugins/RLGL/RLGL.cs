@@ -16,9 +16,6 @@ namespace RLGL {
 	public class Variables {
 		public static bool WatchOut;
 	}
-}
-
-namespace RLGL {
 	
 	public class RLGL : BotPlugin {
 		
@@ -48,12 +45,15 @@ namespace RLGL {
 		public int CountNearbyPC() {
 			int playersCounted = 0;
 			var units = GameObjectManager.GameObjects;
+			playersCounted = units.Where(i () => !i.IsMe && (int)unit.Type == 1).Count();
+			/*
 			foreach(var unit in units.OrderBy(r=>r.Distance())) {
 				if(!unit.IsMe && (int)unit.Type == 1) {
 					playersCounted++;
 					Log(Color.FromRgb(100, 200, 255), "Player: {0} - LoS: {1}", unit.Name, unit.InLineOfSight());
 				}
 			}
+			*/
 			return playersCounted;
 		}
 		
