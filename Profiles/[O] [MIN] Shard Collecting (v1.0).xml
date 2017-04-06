@@ -1,13 +1,15 @@
 <!--
-#######################################
+#################################################################################
 #	[O] [MIN] Shard Collecting (v1.0)
+#       MUST HAVE RLGL PLUGIN. [RedLightGreenLight]
+#       If you do not want it, remove the CodeChunks and references to it below.
 #	REQUIREMENTS:
 #		Ul'dah Aetheryte
 #		Complete Aethernet for Ul'dah
 #		Limsa Lominsa Aetheryte
 #		Miner Unlocked
 #		Miner Gear Set
-#######################################
+#################################################################################
 -->
 <!-- Configure desired quantities. -->
 <!DOCTYPE Profile [
