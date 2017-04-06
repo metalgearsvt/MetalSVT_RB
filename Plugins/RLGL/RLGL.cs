@@ -45,14 +45,16 @@ namespace RLGL {
 		public int CountNearbyPC() {
 			int playersCounted = 0;
 			var units = GameObjectManager.GameObjects;
-			playersCounted = units.Where(i => {
-					if(!i.IsMe && (int)unit.Type == 1) {
-						Log(Color.FromRgb(100, 200, 255), "Player: {0} - LoS: {1}", unit.Name, unit.InLineOfSight());
-						return true;
-					}
-					return false;
-				}).Count();
+			playersCounted = units.Where(IsUnitPC).Count();
 			return playersCounted;
+		}
+		
+		public bool IsUnitPC(ff14bot.Objects.GameObject unit) {
+			if(!unit.IsMe && (int)unit.Type == 1) {
+				Log(Color.FromRgb(100, 200, 255), "Player: {0} - LoS: {1}", unit.Name, unit.InLineOfSight());
+				return true;
+			}
+			return false;
 		}
 		
 		private void Log(Color color, String msg, params object[] vars) {
@@ -72,7 +74,7 @@ namespace RLGL {
 	
 		public override Version Version {
 			get {
-				return new Version(0, 0, 2);
+				return new Version(0, 0, 3);
 			}
 		}
 	
