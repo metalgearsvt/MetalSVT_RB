@@ -1,0 +1,109 @@
+<!--
+#######################################
+#	[O] [MIN] Shard Collecting (v1.0)
+#	REQUIREMENTS:
+#		Ul'dah Aetheryte
+#		Complete Aethernet for Ul'dah
+#		Limsa Lominsa Aetheryte
+#		Miner Unlocked
+#		Miner Gear Set
+#######################################
+-->
+<!-- Configure desired quantities. -->
+<!DOCTYPE Profile [
+
+	<!ENTITY WindShardQ "500">
+	<!ENTITY LightningShardQ "750">
+	
+	<!ENTITY WSID "4">
+	<!ENTITY LSID "6">
+	
+]>
+
+<Profile>
+	<Name>[O] [MIN] Shard Collecting (v1.0)</Name>
+	<CodeChunks>
+		<!-- Configure gear slot here! -->
+		<CodeChunk Name="Miner">
+			<![CDATA[ 
+				ff14bot.Managers.ChatManager.SendChat("/gs change 3");
+			]]>
+		</CodeChunk>
+		<CodeChunk Name="Dnd">
+			<![CDATA[ 
+				ff14bot.Managers.ChatManager.SendChat("/busy");
+			]]>
+		</CodeChunk>
+		<!-- You may need to change the last Coroutine.Sleep depending on your loading screen times.. -->
+		<CodeChunk Name="TeleCTNald">
+			<![CDATA[
+				ff14bot.Managers.Actionmanager.InteractWith(ff14bot.Managers.GameObjectManager.GetObjectByNPCId(9));
+				await Coroutine.Wait(3000, () => ff14bot.RemoteWindows.SelectString.IsOpen);
+				ff14bot.RemoteWindows.SelectString.ClickSlot(0);
+				await Coroutine.Sleep(500);
+				ff14bot.RemoteWindows.SelectString.ClickSlot(9);
+				await Coroutine.Sleep(5000);
+			]]>
+		</CodeChunk>
+		<CodeChunk Name="Repair">
+			<![CDATA[
+				ff14bot.Managers.Actionmanager.InteractWith(ff14bot.Managers.GameObjectManager.GetObjectByNPCId(1001206));
+				await Coroutine.Wait(10000, () => ff14bot.RemoteWindows.Repair.IsOpen);
+				ff14bot.RemoteWindows.Repair.RepairAll();
+				await Coroutine.Wait(3000, () => ff14bot.RemoteWindows.SelectYesno.IsOpen);
+				ff14bot.RemoteWindows.SelectYesno.ClickYes();
+				await Coroutine.Wait(3000, () => ff14bot.RemoteWindows.Repair.IsOpen);
+				ff14bot.RemoteWindows.Repair.Close();
+			]]>
+		</CodeChunk>
+		<CodeChunk Name="RLGL1">
+			<![CDATA[
+				RLGL.Variables.WatchOut = true;
+			]]>
+		</CodeChunk>
+		<CodeChunk Name="RLGL0">
+			<![CDATA[
+				RLGL.Variables.WatchOut = false;
+			]]>
+		</CodeChunk>
+	</CodeChunks>
+	<Order>
+		<RunCode Name="Miner" />
+		<RunCode Name="Dnd" />
+		<LogMessage Message="Beginning rotation and gathering these shards: W: &WindShardQ; - L: &LightningShardQ;"/>
+		<!-- Teleport to Ul'dah --> 
+		<TeleportTo Name="Ul'dah" AetheryteId="9" />
+		<!-- Teleport to Central Than, Gate of Nald -->
+		<RunCode Name="TeleCTNald" />
+		<GetTo ZoneId="141" XYZ="115.7852, 5.498732, 260.9465" />
+		<RunCode Name="RLGL1"/>
+		<Gather while="(ItemCount(&LSID;) &lt; &LightningShardQ;)">
+			<GatherObject>Mineral Deposit</GatherObject>
+			<HotSpots>
+				<HotSpot Radius="90" XYZ="113.9823, 4.828903, 261.487" />
+			</HotSpots>
+			<ItemNames>
+				<ItemName>Lightning Shard</ItemName>
+			</ItemNames>
+		</Gather>
+		<LogMessage Message="Completed gathering Lightning Shards."/>
+		<Gather while="(ItemCount(&WSID;) &lt; &WindShardQ;)">
+			<GatherObject>Mineral Deposit</GatherObject>
+			<HotSpots>
+				<HotSpot Radius="90" XYZ="113.9823, 4.828903, 261.487" />
+			</HotSpots>
+			<ItemNames>
+				<ItemName>Wind Shard</ItemName>
+			</ItemNames>
+		</Gather>
+		<RunCode Name="RLGL0"/>
+		<LogMessage Message="Completed gathering Wind Shards."/>
+		<LogMessage Message="Completed gathering!"/>
+		<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
+		<LogMessage Message="Repairing gear."/>
+		<MoveTo Name="Alistair" XYZ="-246.7778, 16.2, 51.29271"/>
+		<RunCode Name="Repair" />
+		<!-- Turn Dnd back off -->
+		<RunCode Name="Dnd" />
+	</Order>
+</Profile>
