@@ -1,28 +1,32 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Windows.Media;
 using Buddy.Coroutines;
 using ff14bot.AClasses;
 using ff14bot.Behavior;
-using ff14bot.Enums;
 using ff14bot.Helpers;
 using ff14bot.Managers;
 using TreeSharp;
+using System.Windows.Media;
 
-namespace RLGL {
-	public class Variables {
+namespace RLGL
+{
+    public class Variables {
 		public static bool WatchOut;
 	}
 	
-	public class RLGL : BotPlugin {
+	public class RLGL {
 		
 		private Composite _coroutine;
 		public Random rnd;
-		
-		internal async Task<bool> CheckIfClear() {
+
+        public void OnButtonPress()
+        {
+            SettingsWindow sw = new SettingsWindow();
+            sw.Show();
+        }
+
+        internal async Task<bool> CheckIfClear() {
 			if(Variables.WatchOut == true) {
 				int ok = 0;
 				int NearCount = CountNearbyPC();
@@ -62,29 +66,29 @@ namespace RLGL {
 			Logging.Write(color, _out);
 		}
 	
-		public override void Dispose() {}
+		public void Dispose() {}
 	
 		public void Pulse() {}
 	
-		public override string Author {
+		public string Author {
 			get {
 				return "MetalSVT";
 			}
 		}
 	
-		public override Version Version {
+		public Version Version {
 			get {
 				return new Version(0, 0, 3);
 			}
 		}
 	
-		public override string Name {
+		public string Name {
 			get {
 				return "RedLightGreenLight";
 			}
 		}
 		
-		public override void OnInitialize() {
+		public void OnInitialize() {
 			// Only happens once.
 			Variables.WatchOut = false;
 			rnd = new Random();
@@ -92,17 +96,17 @@ namespace RLGL {
 			Log(Color.FromRgb(255, 100, 75), "RLGL initialized!");
 		}
 	
-		public override void OnShutdown() {
+		public void OnShutdown() {
 			
 		}
 	
-		public override void OnDisabled() {
+		public void OnDisabled() {
 			Variables.WatchOut = false;
 			TreeHooks.Instance.OnHooksCleared -= OnHooksCleared;
 			TreeHooks.Instance.RemoveHook("TreeStart", _coroutine);
 		}
 		
-		public override void OnEnabled() {
+		public void OnEnabled() {
 			TreeHooks.Instance.AddHook("TreeStart", _coroutine);
 			TreeHooks.Instance.OnHooksCleared += OnHooksCleared;
 		}
