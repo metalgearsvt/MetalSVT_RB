@@ -1,0 +1,2130 @@
+{
+	"367": {
+		"Name1": "Thanalan",
+		"Name2": "The Sunken Temple of Qarn (Hard)"
+	},
+	"144": {
+		"Name1": "Thanalan",
+		"Name2": "The Gold Saucer"
+	},
+	"727": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Royal Menagerie"
+	},
+	"241": {
+		"Name1": "La Noscea",
+		"Name2": "Upper Aetheroacoustic Exploratory Site"
+	},
+	"139": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"454": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"328": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"412": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"466": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"221": {
+		"Name1": "La Noscea",
+		"Name2": "Upper La Noscea"
+	},
+	"276": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"338": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"558": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"553": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"142": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"370": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"396": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"394": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"588": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"247": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"246": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"176": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"570": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"504": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"505": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"724": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Palace of the Dead"
+	},
+	"298": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"322": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"699": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"313": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"316": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"496": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"368": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"500": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"469": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"468": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"533": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"301": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"302": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"304": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"223": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"155": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"488": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"487": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"475": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Central Highlands"
+	},
+	"383": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Holocharts"
+	},
+	"358": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Holocharts"
+	},
+	"424": {
+		"Name1": "Thanalan",
+		"Name2": "Company Workshop - The Goblet"
+	},
+	"273": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"278": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"332": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"140": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"255": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"215": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"267": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"269": {
+		"Name1": "Thanalan",
+		"Name2": "Western Thanalan"
+	},
+	"381": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Outer Coil"
+	},
+	"356": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Outer Coil"
+	},
+	"224": {
+		"Name1": "Thanalan",
+		"Name2": "Praetorium"
+	},
+	"399": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Hinterlands"
+	},
+	"503": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Hinterlands"
+	},
+	"485": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Hinterlands"
+	},
+	"476": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Hinterlands"
+	},
+	"428": {
+		"Name1": "Coerthas",
+		"Name2": "Seat of the Lord Commander"
+	},
+	"416": {
+		"Name1": "Dravania",
+		"Name2": "The Great Gubal Library"
+	},
+	"676": {
+		"Name1": "Dravania",
+		"Name2": "The Great Gubal Library"
+	},
+	"161": {
+		"Name1": "Thanalan",
+		"Name2": "Copperbell Mines"
+	},
+	"163": {
+		"Name1": "Thanalan",
+		"Name2": "The Sunken Temple of Qarn"
+	},
+	"478": {
+		"Name1": "Dravania",
+		"Name2": "Idyllshire"
+	},
+	"344": {
+		"Name1": "The Black Shroud",
+		"Name2": "Private Mansion - The Lavender Beds"
+	},
+	"170": {
+		"Name1": "Thanalan",
+		"Name2": "Cutter's Cry"
+	},
+	"536": {
+		"Name1": "La Noscea",
+		"Name2": "Maelstrom Barracks"
+	},
+	"150": {
+		"Name1": "Mor Dhona",
+		"Name2": "The Keeper of the Lake"
+	},
+	"492": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Sea of Clouds"
+	},
+	"401": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Sea of Clouds"
+	},
+	"455": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Sea of Clouds"
+	},
+	"461": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Sea of Clouds"
+	},
+	"342": {
+		"Name1": "The Black Shroud",
+		"Name2": "Private Cottage - The Lavender Beds"
+	},
+	"682": {
+		"Name1": "Othard",
+		"Name2": "Doman Enclave"
+	},
+	"439": {
+		"Name1": "Coerthas",
+		"Name2": "The Lightfeather Proving Grounds"
+	},
+	"619": {
+		"Name1": "La Noscea",
+		"Name2": "The Feasting Grounds"
+	},
+	"527": {
+		"Name1": "La Noscea",
+		"Name2": "The Feasting Grounds"
+	},
+	"149": {
+		"Name1": "La Noscea",
+		"Name2": "The Feasting Grounds"
+	},
+	"169": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Thousand Maws of Toto-Rak"
+	},
+	"573": {
+		"Name1": "La Noscea",
+		"Name2": "Topmast Apartment Lobby"
+	},
+	"438": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Aetherochemical Research Facility"
+	},
+	"702": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Aetherochemical Research Facility"
+	},
+	"560": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Aetherochemical Research Facility"
+	},
+	"507": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Central Azys Lla"
+	},
+	"660": {
+		"Name1": "Othard",
+		"Name2": "Doma Castle"
+	},
+	"339": {
+		"Name1": "La Noscea",
+		"Name2": "Mist"
+	},
+	"136": {
+		"Name1": "La Noscea",
+		"Name2": "Mist"
+	},
+	"556": {
+		"Name1": "Mor Dhona",
+		"Name2": "The Weeping City of Mhach"
+	},
+	"707": {
+		"Name1": "Mor Dhona",
+		"Name2": "The Weeping City of Mhach"
+	},
+	"435": {
+		"Name1": "Dravania",
+		"Name2": "The Aery"
+	},
+	"372": {
+		"Name1": "Mor Dhona",
+		"Name2": "Syrcus Tower"
+	},
+	"171": {
+		"Name1": "Coerthas",
+		"Name2": "Dzemael Darkhold"
+	},
+	"391": {
+		"Name1": "???",
+		"Name2": "Chocobo Square"
+	},
+	"493": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"709": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"397": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"498": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"497": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"467": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"489": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"472": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"470": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"477": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"479": {
+		"Name1": "Coerthas",
+		"Name2": "Coerthas Western Highlands"
+	},
+	"587": {
+		"Name1": "Dravania",
+		"Name2": "Soul of the Creator"
+	},
+	"583": {
+		"Name1": "Dravania",
+		"Name2": "Soul of the Creator"
+	},
+	"340": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Lavender Beds"
+	},
+	"429": {
+		"Name1": "Coerthas",
+		"Name2": "Cloud Nine"
+	},
+	"166": {
+		"Name1": "The Black Shroud",
+		"Name2": "Haukke Manor"
+	},
+	"571": {
+		"Name1": "The Black Shroud",
+		"Name2": "Haunted Manor"
+	},
+	"243": {
+		"Name1": "La Noscea",
+		"Name2": "The Ragnarok"
+	},
+	"348": {
+		"Name1": "Thanalan",
+		"Name2": "Porta Decumana"
+	},
+	"393": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"392": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"554": {
+		"Name1": "Coerthas",
+		"Name2": "The Fields of Glory"
+	},
+	"384": {
+		"Name1": "La Noscea",
+		"Name2": "Topmast Apartment"
+	},
+	"608": {
+		"Name1": "La Noscea",
+		"Name2": "Topmast Apartment"
+	},
+	"388": {
+		"Name1": "Thanalan",
+		"Name2": "The Gold Saucer"
+	},
+	"674": {
+		"Name1": "Othard",
+		"Name2": "The Blessed Treasury"
+	},
+	"677": {
+		"Name1": "Othard",
+		"Name2": "The Blessed Treasury"
+	},
+	"350": {
+		"Name1": "The Black Shroud",
+		"Name2": "Haukke Manor (Hard)"
+	},
+	"245": {
+		"Name1": "La Noscea",
+		"Name2": "Ragnarok Central Core"
+	},
+	"291": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"192": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"235": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"236": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"231": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"232": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"317": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"229": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"220": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"153": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"473": {
+		"Name1": "The Black Shroud",
+		"Name2": "South Shroud"
+	},
+	"346": {
+		"Name1": "Thanalan",
+		"Name2": "Private House - The Goblet"
+	},
+	"299": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"335": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"379": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"326": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"315": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"672": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"308": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"309": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"300": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"305": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"156": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"480": {
+		"Name1": "Mor Dhona",
+		"Name2": "Mor Dhona"
+	},
+	"204": {
+		"Name1": "The Black Shroud",
+		"Name2": "Seat of the First Bow"
+	},
+	"572": {
+		"Name1": "Coerthas",
+		"Name2": "Xelphatol"
+	},
+	"275": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"145": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"494": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"668": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"256": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"257": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"465": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"266": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"268": {
+		"Name1": "Thanalan",
+		"Name2": "Eastern Thanalan"
+	},
+	"611": {
+		"Name1": "Thanalan",
+		"Name2": "Frondale's Ward for Friendless Foundlings"
+	},
+	"513": {
+		"Name1": "Coerthas",
+		"Name2": "The Vault"
+	},
+	"421": {
+		"Name1": "Coerthas",
+		"Name2": "The Vault"
+	},
+	"681": {
+		"Name1": "Othard",
+		"Name2": "The House of the Fierce"
+	},
+	"147": {
+		"Name1": "Thanalan",
+		"Name2": "Northern Thanalan"
+	},
+	"410": {
+		"Name1": "Thanalan",
+		"Name2": "Northern Thanalan"
+	},
+	"483": {
+		"Name1": "Thanalan",
+		"Name2": "Northern Thanalan"
+	},
+	"642": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lichenweed"
+	},
+	"631": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lichenweed"
+	},
+	"617": {
+		"Name1": "Dravania",
+		"Name2": "Sohm Al (Hard)"
+	},
+	"389": {
+		"Name1": "???",
+		"Name2": "Chocobo Square"
+	},
+	"193": {
+		"Name1": "Thanalan",
+		"Name2": "IC-06 Central Decks"
+	},
+	"719": {
+		"Name1": "Gyr Abania",
+		"Name2": "Emanation"
+	},
+	"720": {
+		"Name1": "Gyr Abania",
+		"Name2": "Emanation"
+	},
+	"683": {
+		"Name1": "Gyr Abania",
+		"Name2": "The First Altar of Djanan Qhat"
+	},
+	"585": {
+		"Name1": "Dravania",
+		"Name2": "Breath of the Creator"
+	},
+	"581": {
+		"Name1": "Dravania",
+		"Name2": "Breath of the Creator"
+	},
+	"178": {
+		"Name1": "Thanalan",
+		"Name2": "The Hourglass"
+	},
+	"694": {
+		"Name1": "Gyr Abania",
+		"Name2": "Deltascape V4.0"
+	},
+	"158": {
+		"Name1": "La Noscea",
+		"Name2": "Brayflox's Longstop"
+	},
+	"351": {
+		"Name1": "Mor Dhona",
+		"Name2": "The Rising Stones"
+	},
+	"690": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Interdimensional Rift"
+	},
+	"692": {
+		"Name1": "Gyr Abania",
+		"Name2": "Deltascape V2.0"
+	},
+	"610": {
+		"Name1": "Thanalan",
+		"Name2": "Sultana's Breath Apartment"
+	},
+	"386": {
+		"Name1": "Thanalan",
+		"Name2": "Sultana's Breath Apartment"
+	},
+	"373": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Tam-Tara Deepcroft (Hard)"
+	},
+	"616": {
+		"Name1": "Othard",
+		"Name2": "Shisui of the Violet Tides"
+	},
+	"516": {
+		"Name1": "Dravania",
+		"Name2": "The Antitower"
+	},
+	"395": {
+		"Name1": "Coerthas",
+		"Name2": "Intercessory"
+	},
+	"718": {
+		"Name1": "Othard",
+		"Name2": "The Azim Steppe"
+	},
+	"713": {
+		"Name1": "Othard",
+		"Name2": "The Azim Steppe"
+	},
+	"688": {
+		"Name1": "Othard",
+		"Name2": "The Azim Steppe"
+	},
+	"622": {
+		"Name1": "Othard",
+		"Name2": "The Azim Steppe"
+	},
+	"723": {
+		"Name1": "Othard",
+		"Name2": "The Azim Steppe"
+	},
+	"639": {
+		"Name1": "Hingashi",
+		"Name2": "Ruby Bazaar Offices"
+	},
+	"551": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"550": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"542": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"543": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"540": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"541": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"546": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"547": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"544": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"545": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"548": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"549": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"537": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"539": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"538": {
+		"Name1": "La Noscea",
+		"Name2": "The Fold"
+	},
+	"143": {
+		"Name1": "Coerthas",
+		"Name2": "Steps of Faith"
+	},
+	"711": {
+		"Name1": "Othard",
+		"Name2": "The Ruby Sea"
+	},
+	"613": {
+		"Name1": "Othard",
+		"Name2": "The Ruby Sea"
+	},
+	"726": {
+		"Name1": "Othard",
+		"Name2": "The Ruby Sea"
+	},
+	"578": {
+		"Name1": "Dravania",
+		"Name2": "The Great Gubal Library (Hard)"
+	},
+	"349": {
+		"Name1": "Thanalan",
+		"Name2": "Copperbell Mines (Hard)"
+	},
+	"661": {
+		"Name1": "Gyr Abania",
+		"Name2": "Castrum Abania"
+	},
+	"710": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane"
+	},
+	"628": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane"
+	},
+	"667": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane"
+	},
+	"665": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane"
+	},
+	"664": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane"
+	},
+	"207": {
+		"Name1": "The Black Shroud",
+		"Name2": "Thornmarch"
+	},
+	"364": {
+		"Name1": "The Black Shroud",
+		"Name2": "Thornmarch"
+	},
+	"366": {
+		"Name1": "Coerthas",
+		"Name2": "Griffin Crossing"
+	},
+	"716": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Peaks"
+	},
+	"620": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Peaks"
+	},
+	"362": {
+		"Name1": "La Noscea",
+		"Name2": "Brayflox's Longstop (Hard)"
+	},
+	"636": {
+		"Name1": "Mor Dhona",
+		"Name2": "Omega Control"
+	},
+	"584": {
+		"Name1": "Dravania",
+		"Name2": "Eyes of the Creator"
+	},
+	"580": {
+		"Name1": "Dravania",
+		"Name2": "Eyes of the Creator"
+	},
+	"198": {
+		"Name1": "La Noscea",
+		"Name2": "Command Room"
+	},
+	"663": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Temple of the Fist"
+	},
+	"160": {
+		"Name1": "La Noscea",
+		"Name2": "Pharos Sirius"
+	},
+	"385": {
+		"Name1": "The Black Shroud",
+		"Name2": "Private Chambers - The Lavender Beds"
+	},
+	"609": {
+		"Name1": "The Black Shroud",
+		"Name2": "Private Chambers - The Lavender Beds"
+	},
+	"217": {
+		"Name1": "Thanalan",
+		"Name2": "Castrum Meridianum"
+	},
+	"131": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Thal"
+	},
+	"705": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Thal"
+	},
+	"706": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Thal"
+	},
+	"666": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Thal"
+	},
+	"210": {
+		"Name1": "Thanalan",
+		"Name2": "Heart of the Sworn"
+	},
+	"283": {
+		"Name1": "La Noscea",
+		"Name2": "Private House - Mist"
+	},
+	"419": {
+		"Name1": "Coerthas",
+		"Name2": "The Pillars"
+	},
+	"499": {
+		"Name1": "Coerthas",
+		"Name2": "The Pillars"
+	},
+	"430": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Fractal Continuum"
+	},
+	"441": {
+		"Name1": "Dravania",
+		"Name2": "Sohm Al Foothills"
+	},
+	"673": {
+		"Name1": "Dravania",
+		"Name2": "Sohm Al Foothills"
+	},
+	"448": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Singularity Reactor"
+	},
+	"437": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Singularity Reactor"
+	},
+	"463": {
+		"Name1": "Dravania",
+		"Name2": "Matoya's Cave"
+	},
+	"615": {
+		"Name1": "The Black Shroud",
+		"Name2": "Baelsar's Wall"
+	},
+	"522": {
+		"Name1": "Dravania",
+		"Name2": "The Arm of the Son"
+	},
+	"531": {
+		"Name1": "Dravania",
+		"Name2": "The Arm of the Son"
+	},
+	"353": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Last Remnant"
+	},
+	"279": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"135": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"495": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"249": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"415": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"287": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"262": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"265": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"264": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"307": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"222": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"484": {
+		"Name1": "La Noscea",
+		"Name2": "Lower La Noscea"
+	},
+	"524": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay S1T7"
+	},
+	"517": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay S1T7"
+	},
+	"354": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay S1T7"
+	},
+	"659": {
+		"Name1": "Gyr Abania",
+		"Name2": "Rhalgr's Reach"
+	},
+	"635": {
+		"Name1": "Gyr Abania",
+		"Name2": "Rhalgr's Reach"
+	},
+	"174": {
+		"Name1": "Mor Dhona",
+		"Name2": "Labyrinth of the Ancients"
+	},
+	"520": {
+		"Name1": "Dravania",
+		"Name2": "The Fist of the Son"
+	},
+	"529": {
+		"Name1": "Dravania",
+		"Name2": "The Fist of the Son"
+	},
+	"398": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Forelands"
+	},
+	"464": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Forelands"
+	},
+	"482": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Forelands"
+	},
+	"481": {
+		"Name1": "Dravania",
+		"Name2": "The Dravanian Forelands"
+	},
+	"444": {
+		"Name1": "Dravania",
+		"Name2": "The Arm of the Father"
+	},
+	"451": {
+		"Name1": "Dravania",
+		"Name2": "The Arm of the Father"
+	},
+	"656": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"630": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"194": {
+		"Name1": "Thanalan",
+		"Name2": "IC-06 Regeneration Grid"
+	},
+	"164": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Tam-Tara Deepcroft"
+	},
+	"295": {
+		"Name1": "Thanalan",
+		"Name2": "Bowl of Embers"
+	},
+	"292": {
+		"Name1": "Thanalan",
+		"Name2": "Bowl of Embers"
+	},
+	"592": {
+		"Name1": "Thanalan",
+		"Name2": "Bowl of Embers"
+	},
+	"202": {
+		"Name1": "Thanalan",
+		"Name2": "Bowl of Embers"
+	},
+	"238": {
+		"Name1": "The Black Shroud",
+		"Name2": "Old Gridania"
+	},
+	"133": {
+		"Name1": "The Black Shroud",
+		"Name2": "Old Gridania"
+	},
+	"691": {
+		"Name1": "Gyr Abania",
+		"Name2": "Deltascape V1.0"
+	},
+	"188": {
+		"Name1": "La Noscea",
+		"Name2": "The Wanderer's Palace (Hard)"
+	},
+	"330": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"552": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"138": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"406": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"405": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"453": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"413": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"280": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"675": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"263": {
+		"Name1": "La Noscea",
+		"Name2": "Western La Noscea"
+	},
+	"407": {
+		"Name1": "La Noscea",
+		"Name2": "Rhotano Sea"
+	},
+	"708": {
+		"Name1": "La Noscea",
+		"Name2": "Rhotano Sea"
+	},
+	"288": {
+		"Name1": "La Noscea",
+		"Name2": "Rhotano Sea"
+	},
+	"286": {
+		"Name1": "La Noscea",
+		"Name2": "Rhotano Sea"
+	},
+	"417": {
+		"Name1": "???",
+		"Name2": "Chocobo Square"
+	},
+	"390": {
+		"Name1": "???",
+		"Name2": "Chocobo Square"
+	},
+	"654": {
+		"Name1": "Hingashi",
+		"Name2": "Kobai Goten Apartment Lobby"
+	},
+	"270": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"271": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"141": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"248": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"314": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"258": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"253": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"216": {
+		"Name1": "Thanalan",
+		"Name2": "Central Thanalan"
+	},
+	"376": {
+		"Name1": "Mor Dhona",
+		"Name2": "Carteneau Flats: Borderland Ruins"
+	},
+	"502": {
+		"Name1": "Mor Dhona",
+		"Name2": "Carteneau Flats: Borderland Ruins"
+	},
+	"633": {
+		"Name1": "Mor Dhona",
+		"Name2": "Carteneau Flats: Borderland Ruins"
+	},
+	"272": {
+		"Name1": "La Noscea",
+		"Name2": "Middle La Noscea"
+	},
+	"134": {
+		"Name1": "La Noscea",
+		"Name2": "Middle La Noscea"
+	},
+	"252": {
+		"Name1": "La Noscea",
+		"Name2": "Middle La Noscea"
+	},
+	"214": {
+		"Name1": "La Noscea",
+		"Name2": "Middle La Noscea"
+	},
+	"285": {
+		"Name1": "La Noscea",
+		"Name2": "Middle La Noscea"
+	},
+	"196": {
+		"Name1": "Thanalan",
+		"Name2": "The Burning Heart"
+	},
+	"715": {
+		"Name1": "Dravania",
+		"Name2": "The Churning Mists"
+	},
+	"400": {
+		"Name1": "Dravania",
+		"Name2": "The Churning Mists"
+	},
+	"501": {
+		"Name1": "Dravania",
+		"Name2": "The Churning Mists"
+	},
+	"369": {
+		"Name1": "Thanalan",
+		"Name2": "Halatali"
+	},
+	"162": {
+		"Name1": "Thanalan",
+		"Name2": "Halatali"
+	},
+	"431": {
+		"Name1": "La Noscea",
+		"Name2": "Seal Rock"
+	},
+	"701": {
+		"Name1": "La Noscea",
+		"Name2": "Seal Rock"
+	},
+	"404": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Lower Decks"
+	},
+	"129": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Lower Decks"
+	},
+	"190": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"239": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"237": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"230": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"233": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"148": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"320": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"319": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"219": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"227": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"226": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"225": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Shroud"
+	},
+	"679": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Royal Airship Landing"
+	},
+	"575": {
+		"Name1": "Thanalan",
+		"Name2": "Sultana's Breath Apartment Lobby"
+	},
+	"409": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Upper Decks"
+	},
+	"181": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Upper Decks"
+	},
+	"128": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Upper Decks"
+	},
+	"474": {
+		"Name1": "La Noscea",
+		"Name2": "Limsa Lominsa Upper Decks"
+	},
+	"343": {
+		"Name1": "The Black Shroud",
+		"Name2": "Private House - The Lavender Beds"
+	},
+	"402": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Azys Lla"
+	},
+	"459": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Azys Lla"
+	},
+	"382": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Decks"
+	},
+	"357": {
+		"Name1": "The Black Shroud",
+		"Name2": "Central Decks"
+	},
+	"365": {
+		"Name1": "Coerthas",
+		"Name2": "The Stone Vigil (Hard)"
+	},
+	"440": {
+		"Name1": "Coerthas",
+		"Name2": "Ruling Chamber"
+	},
+	"456": {
+		"Name1": "Coerthas",
+		"Name2": "Ruling Chamber"
+	},
+	"132": {
+		"Name1": "The Black Shroud",
+		"Name2": "New Gridania"
+	},
+	"183": {
+		"Name1": "The Black Shroud",
+		"Name2": "New Gridania"
+	},
+	"341": {
+		"Name1": "Thanalan",
+		"Name2": "The Goblet"
+	},
+	"704": {
+		"Name1": "The Black Shroud",
+		"Name2": "Dalamud's Shadow"
+	},
+	"380": {
+		"Name1": "The Black Shroud",
+		"Name2": "Dalamud's Shadow"
+	},
+	"355": {
+		"Name1": "The Black Shroud",
+		"Name2": "Dalamud's Shadow"
+	},
+	"212": {
+		"Name1": "Thanalan",
+		"Name2": "The Waking Sands"
+	},
+	"535": {
+		"Name1": "Thanalan",
+		"Name2": "Flame Barracks"
+	},
+	"627": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Dun Scaith"
+	},
+	"375": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Striking Tree"
+	},
+	"374": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Striking Tree"
+	},
+	"567": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Parrock"
+	},
+	"172": {
+		"Name1": "Coerthas",
+		"Name2": "Aurum Vale"
+	},
+	"662": {
+		"Name1": "Hingashi",
+		"Name2": "Kugane Castle"
+	},
+	"586": {
+		"Name1": "Dravania",
+		"Name2": "Heart of the Creator"
+	},
+	"582": {
+		"Name1": "Dravania",
+		"Name2": "Heart of the Creator"
+	},
+	"519": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Lost City of Amdapor (Hard)"
+	},
+	"722": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Lost City of Amdapor (Hard)"
+	},
+	"433": {
+		"Name1": "Coerthas",
+		"Name2": "Fortemps Manor"
+	},
+	"449": {
+		"Name1": "Dravania",
+		"Name2": "The Fist of the Father"
+	},
+	"442": {
+		"Name1": "Dravania",
+		"Name2": "The Fist of the Father"
+	},
+	"151": {
+		"Name1": "Mor Dhona",
+		"Name2": "The World of Darkness"
+	},
+	"177": {
+		"Name1": "La Noscea",
+		"Name2": "Mizzenmast Inn"
+	},
+	"242": {
+		"Name1": "La Noscea",
+		"Name2": "Lower Aetheroacoustic Exploratory Site"
+	},
+	"359": {
+		"Name1": "La Noscea",
+		"Name2": "The Whorleater"
+	},
+	"281": {
+		"Name1": "La Noscea",
+		"Name2": "The Whorleater"
+	},
+	"423": {
+		"Name1": "La Noscea",
+		"Name2": "Company Workshop - Mist"
+	},
+	"180": {
+		"Name1": "La Noscea",
+		"Name2": "Outer La Noscea"
+	},
+	"325": {
+		"Name1": "La Noscea",
+		"Name2": "Outer La Noscea"
+	},
+	"486": {
+		"Name1": "La Noscea",
+		"Name2": "Outer La Noscea"
+	},
+	"244": {
+		"Name1": "La Noscea",
+		"Name2": "Ragnarok Drive Cylinder"
+	},
+	"137": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"408": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"327": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"414": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"411": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"311": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"310": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"471": {
+		"Name1": "La Noscea",
+		"Name2": "Eastern La Noscea"
+	},
+	"205": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lotus Stand"
+	},
+	"347": {
+		"Name1": "Thanalan",
+		"Name2": "Private Mansion - The Goblet"
+	},
+	"345": {
+		"Name1": "Thanalan",
+		"Name2": "Private Cottage - The Goblet"
+	},
+	"167": {
+		"Name1": "The Black Shroud",
+		"Name2": "Amdapor Keep"
+	},
+	"240": {
+		"Name1": "The Black Shroud",
+		"Name2": "North Shroud"
+	},
+	"321": {
+		"Name1": "The Black Shroud",
+		"Name2": "North Shroud"
+	},
+	"324": {
+		"Name1": "The Black Shroud",
+		"Name2": "North Shroud"
+	},
+	"228": {
+		"Name1": "The Black Shroud",
+		"Name2": "North Shroud"
+	},
+	"154": {
+		"Name1": "The Black Shroud",
+		"Name2": "North Shroud"
+	},
+	"282": {
+		"Name1": "La Noscea",
+		"Name2": "Private Cottage - Mist"
+	},
+	"508": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Void Ark"
+	},
+	"579": {
+		"Name1": "Thanalan",
+		"Name2": "The Battlehall"
+	},
+	"146": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"491": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"323": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"669": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"318": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"312": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"261": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"260": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"306": {
+		"Name1": "Thanalan",
+		"Name2": "Southern Thanalan"
+	},
+	"629": {
+		"Name1": "Hingashi",
+		"Name2": "Bokairo Inn"
+	},
+	"714": {
+		"Name1": "Othard",
+		"Name2": "Bardam's Mettle"
+	},
+	"623": {
+		"Name1": "Othard",
+		"Name2": "Bardam's Mettle"
+	},
+	"446": {
+		"Name1": "Dravania",
+		"Name2": "Thok ast Thok"
+	},
+	"432": {
+		"Name1": "Dravania",
+		"Name2": "Thok ast Thok"
+	},
+	"296": {
+		"Name1": "La Noscea",
+		"Name2": "The Navel"
+	},
+	"293": {
+		"Name1": "La Noscea",
+		"Name2": "The Navel"
+	},
+	"206": {
+		"Name1": "La Noscea",
+		"Name2": "The Navel"
+	},
+	"509": {
+		"Name1": "La Noscea",
+		"Name2": "The Navel"
+	},
+	"434": {
+		"Name1": "Coerthas",
+		"Name2": "Dusk Vigil"
+	},
+	"157": {
+		"Name1": "La Noscea",
+		"Name2": "Sastasha"
+	},
+	"693": {
+		"Name1": "Gyr Abania",
+		"Name2": "Deltascape V3.0"
+	},
+	"329": {
+		"Name1": "La Noscea",
+		"Name2": "The Wanderer's Palace"
+	},
+	"159": {
+		"Name1": "La Noscea",
+		"Name2": "The Wanderer's Palace"
+	},
+	"378": {
+		"Name1": "Coerthas",
+		"Name2": "Akh Afah Amphitheatre"
+	},
+	"377": {
+		"Name1": "Coerthas",
+		"Name2": "Akh Afah Amphitheatre"
+	},
+	"457": {
+		"Name1": "Coerthas",
+		"Name2": "Akh Afah Amphitheatre"
+	},
+	"387": {
+		"Name1": "La Noscea",
+		"Name2": "Sastasha (Hard)"
+	},
+	"700": {
+		"Name1": "Coerthas",
+		"Name2": "Foundation"
+	},
+	"458": {
+		"Name1": "Coerthas",
+		"Name2": "Foundation"
+	},
+	"418": {
+		"Name1": "Coerthas",
+		"Name2": "Foundation"
+	},
+	"618": {
+		"Name1": "La Noscea",
+		"Name2": "The Feasting Grounds"
+	},
+	"518": {
+		"Name1": "La Noscea",
+		"Name2": "The Feasting Grounds"
+	},
+	"363": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Lost City of Amdapor"
+	},
+	"569": {
+		"Name1": "Coerthas",
+		"Name2": "Steps of Faith"
+	},
+	"490": {
+		"Name1": "La Noscea",
+		"Name2": "Hullbreaker Isle"
+	},
+	"361": {
+		"Name1": "La Noscea",
+		"Name2": "Hullbreaker Isle"
+	},
+	"189": {
+		"Name1": "The Black Shroud",
+		"Name2": "Amdapor Keep (Hard)"
+	},
+	"721": {
+		"Name1": "The Black Shroud",
+		"Name2": "Amdapor Keep (Hard)"
+	},
+	"426": {
+		"Name1": "Mor Dhona",
+		"Name2": "The Chrysalis"
+	},
+	"644": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lichenweed"
+	},
+	"646": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lichenweed"
+	},
+	"360": {
+		"Name1": "Thanalan",
+		"Name2": "Halatali (Hard)"
+	},
+	"460": {
+		"Name1": "Thanalan",
+		"Name2": "Halatali (Hard)"
+	},
+	"510": {
+		"Name1": "La Noscea",
+		"Name2": "Pharos Sirius (Hard)"
+	},
+	"568": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Leofard's Chambers"
+	},
+	"559": {
+		"Name1": "Coerthas",
+		"Name2": "Steps of Faith"
+	},
+	"566": {
+		"Name1": "Coerthas",
+		"Name2": "Steps of Faith"
+	},
+	"684": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Lochs"
+	},
+	"687": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Lochs"
+	},
+	"686": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Lochs"
+	},
+	"621": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Lochs"
+	},
+	"179": {
+		"Name1": "The Black Shroud",
+		"Name2": "The Roost"
+	},
+	"427": {
+		"Name1": "Coerthas",
+		"Name2": "Saint Endalim's Scholasticate"
+	},
+	"555": {
+		"Name1": "Dravania",
+		"Name2": "Sohr Khai"
+	},
+	"511": {
+		"Name1": "Dravania",
+		"Name2": "Saint Mocianne's Arboretum"
+	},
+	"574": {
+		"Name1": "The Black Shroud",
+		"Name2": "Lily Hills Apartment Lobby"
+	},
+	"717": {
+		"Name1": "La Noscea",
+		"Name2": "Wolves' Den Pier"
+	},
+	"250": {
+		"Name1": "La Noscea",
+		"Name2": "Wolves' Den Pier"
+	},
+	"557": {
+		"Name1": "La Noscea",
+		"Name2": "Hullbreaker Isle (Hard)"
+	},
+	"614": {
+		"Name1": "Othard",
+		"Name2": "Yanxia"
+	},
+	"685": {
+		"Name1": "Othard",
+		"Name2": "Yanxia"
+	},
+	"290": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"191": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"277": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"234": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"289": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"303": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"152": {
+		"Name1": "The Black Shroud",
+		"Name2": "East Shroud"
+	},
+	"640": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"612": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"703": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"647": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"648": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"678": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"670": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"671": {
+		"Name1": "Gyr Abania",
+		"Name2": "The Fringes"
+	},
+	"425": {
+		"Name1": "The Black Shroud",
+		"Name2": "Company Workshop - The Lavender Beds"
+	},
+	"297": {
+		"Name1": "Coerthas",
+		"Name2": "The Howling Eye"
+	},
+	"294": {
+		"Name1": "Coerthas",
+		"Name2": "The Howling Eye"
+	},
+	"208": {
+		"Name1": "Coerthas",
+		"Name2": "The Howling Eye"
+	},
+	"331": {
+		"Name1": "Coerthas",
+		"Name2": "The Howling Eye"
+	},
+	"445": {
+		"Name1": "Dravania",
+		"Name2": "The Burden of the Father"
+	},
+	"452": {
+		"Name1": "Dravania",
+		"Name2": "The Burden of the Father"
+	},
+	"577": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay P1T6"
+	},
+	"576": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay P1T6"
+	},
+	"274": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"130": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"182": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"259": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"251": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"254": {
+		"Name1": "Thanalan",
+		"Name2": "Ul'dah - Steps of Nald"
+	},
+	"626": {
+		"Name1": "La Noscea",
+		"Name2": "The Sirensong Sea"
+	},
+	"534": {
+		"Name1": "The Black Shroud",
+		"Name2": "Twin Adder Barracks"
+	},
+	"195": {
+		"Name1": "Thanalan",
+		"Name2": "IC-06 Main Bridge"
+	},
+	"371": {
+		"Name1": "Coerthas",
+		"Name2": "Snowcloak"
+	},
+	"641": {
+		"Name1": "Hingashi",
+		"Name2": "Shirogane"
+	},
+	"462": {
+		"Name1": "Dravania",
+		"Name2": "Sacrificial Chamber"
+	},
+	"168": {
+		"Name1": "Coerthas",
+		"Name2": "Stone Vigil"
+	},
+	"523": {
+		"Name1": "Dravania",
+		"Name2": "The Burden of the Son"
+	},
+	"532": {
+		"Name1": "Dravania",
+		"Name2": "The Burden of the Son"
+	},
+	"512": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"515": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"514": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"625": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"624": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Diadem"
+	},
+	"447": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Limitless Blue"
+	},
+	"436": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "The Limitless Blue"
+	},
+	"420": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Neverreap"
+	},
+	"284": {
+		"Name1": "La Noscea",
+		"Name2": "Private Mansion - Mist"
+	},
+	"680": {
+		"Name1": "La Noscea",
+		"Name2": "The Misery"
+	},
+	"521": {
+		"Name1": "Dravania",
+		"Name2": "The Cuff of the Son"
+	},
+	"530": {
+		"Name1": "Dravania",
+		"Name2": "The Cuff of the Son"
+	},
+	"443": {
+		"Name1": "Dravania",
+		"Name2": "The Cuff of the Father"
+	},
+	"450": {
+		"Name1": "Dravania",
+		"Name2": "The Cuff of the Father"
+	},
+	"689": {
+		"Name1": "Gyr Abania",
+		"Name2": "Ala Mhigo"
+	},
+	"637": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay Z1T9"
+	},
+	"638": {
+		"Name1": "Abalathia's Spine",
+		"Name2": "Containment Bay Z1T9"
+	}
+}
